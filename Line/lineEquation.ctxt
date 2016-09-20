@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=yInter\ slope
+comment0.target=lineEquation(double,\ double)
+comment0.text=\r\n\ Constructor\ creates\ line\ object\r\n\ takes\ y\ intercept\ double,\ and\ slope\ double\r\n\ no\ output\ because\ constructor\r\n\ lineEquation(30,\ 1.5);\r\n
+comment1.params=
+comment1.target=void\ getEquation()
+comment1.text=\r\n\ This\ method\ prints\ out\ the\ full\ equation\r\n\ \ takes\ no\ input\r\n\ outputs\ the\ full\ equation\r\n\ \ getEquation();\ would\ print\ out\ somthing\ like\ "Y\=\ 1.5X\ +\ 30".\r\n
+numComments=2
